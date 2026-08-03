@@ -1,6 +1,6 @@
 ### Hi, I'm Oliver 👋
 
-Design Engineer at [utu design](https://www.linkedin.com/company/utu-design/), producing CAD site layouts for utility-scale solar & BESS projects. Alongside that, I build automation tooling — for my own workflow and for others at UTU, in C#/.NET, with Python and JS on the side.
+Design Engineer at [utu design](https://www.linkedin.com/company/utu-design/), producing CAD site layouts for utility-scale solar & BESS projects. Alongside that, I build automation tooling for my own workflow and for others at UTU, in C#/.NET, with Python and JS on the side.
 
 Most of that tooling lives in private repos; the two pinned here are public side projects, built outside work hours:
 
