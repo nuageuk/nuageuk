@@ -7,7 +7,7 @@ Alongside project delivery, I develop internal C#/.NET tooling for AutoCAD, incl
 Most of my production tooling lives in private repositories. My pinned public repositories are side projects built outside work:
 
 * **[asciiwhatudidthere](https://github.com/nuageuk/asciiwhatudidthere)** — a real-time ASCII-art renderer for webcam and 3D scenes, running entirely client-side with Three.js and MediaPipe.
-* **[NuVec](https://github.com/nuageuk/NuVec)** — a from-scratch Vectrex emulator written in C, featuring a Motorola 6809 CPU core, memory mapping and a cycle-driven vector display. It boots and renders commercial Vectrex ROMs; sound and controls are in progress.
+* **[NuVec](https://github.com/nuageuk/NuVec)** — a from-scratch Vectrex emulator written in C, featuring a Motorola 6809 CPU core, 6522 VIA emulation, a cycle-driven analogue vector display, AY-3-8912 sound chip emulation and keyboard input. Boots and runs commercial Vectrex ROMs through live gameplay with sound.
 
 I completed a BSc in Computing & IT with the Open University between 2019 and 2025, studying part-time alongside full-time work.
 
